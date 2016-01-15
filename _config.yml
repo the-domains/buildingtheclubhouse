@@ -1,0 +1,28 @@
+name: buildingtheclubhouse
+favicon: null
+layout_spectrum: 0.9117411156184971
+typography_spectrum: 0.26341788889840245
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5903909895569086
+  lightness: 0.047125377459451556
+  saturation: 0.17266986425966024
+  rhythmicContrast: 0.18386328290216625
+purpose: []
